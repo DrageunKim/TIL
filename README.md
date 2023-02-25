@@ -4,7 +4,7 @@
 
 <details> 
 <summary> 2월 </summary>
-  
+
 - 23일
   - SOLID 
   - Frame vs Bound
@@ -15,5 +15,10 @@
   - Stack 활용
   - Queue 활용
   - Deck
+- 25일
+
+  - OAuth 기본개념
+  - 모바일앱이 모바일웹에 비해 좋은 점
+
 
 </details>
