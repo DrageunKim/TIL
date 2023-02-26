@@ -19,6 +19,10 @@
 
   - OAuth 기본개념
   - 모바일앱이 모바일웹에 비해 좋은 점
+- 26일
 
+  - API
+  - REST
+  - RESTful API
 
 </details>
