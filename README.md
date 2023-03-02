@@ -23,7 +23,6 @@
   - REST - HTTP를 잘 활용하기 위한 아키텍쳐
   - RESTful API - HTTP를 잘 활용할 수 있도록 짜여진 구조
 - 27일
-
   - 운영체제 & 인터럽트
   - 최대공약수와 최소공배수 - 최대공약수 x 최소공배수 = 두 값의 곱
   - 소수 찾기 - 에라토스테네스의 체 (빈 배열을 만들어 소수가 아닌 것은 삭제)
@@ -48,8 +47,9 @@
   - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
   - GCD API 동작 방식과 필요성에 대해 설명하시오.
   - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. 
-    <br>
-
+  
+  <br/>
+  
   - 알고리즘 - 다이나믹 프로그래밍
   - 서울 공공데이터 API 사용을 위한 사전 준비
     - addingPercentEncoding
@@ -57,7 +57,6 @@
 - 2일
 
   - RxSwift 기초
-
     - DispatchQueue & RxSwift 차이점
     - Observable 생성 & Operation 사용
     - Subscribe 사용
