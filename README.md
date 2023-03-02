@@ -48,11 +48,23 @@
   - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
   - GCD API 동작 방식과 필요성에 대해 설명하시오.
   - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. 
-  <br>
-  
-  - 다이나믹 프로그래밍
+    <br>
+
+  - 알고리즘 - 다이나믹 프로그래밍
   - 서울 공공데이터 API 사용을 위한 사전 준비
     - addingPercentEncoding
-    - ATS
+    - ATS Policy
+- 2일
+
+  - RxSwift 기초
+
+    - DispatchQueue & RxSwift 차이점
+    - Observable 생성 & Operation 사용
+    - Subscribe 사용
+    - Scheduler
+    - 코드 간소화 (RxCocoa도 함께 사용)
+    - RxSwift 응용
+      - ID & PW 형식에 맞는지 확인 후 로그인 해보는 실습
+    - Subject
 
 </details>
