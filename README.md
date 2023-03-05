@@ -86,4 +86,27 @@
   - setNeedsLayout와 setNeedsDisplay의 차이에 대해 설명하시오.
   - stackView의 장점과 단점에 대해서 설명하시오.
 
+- 5일
+
+  - NSCache와 딕셔너리로 캐시를 구성했을때의 차이를 설명하시오.
+  - URLSession에 대해서 설명하시오.
+  - prepareForReuse에 대해서 설명하시오.
+  - 다크모드를 지원하는 방법에 대해 설명하시오.
+  - ViewController의 생명주기를 설명하시오.
+  - TableView와 CollectionView의 차이점을 설명하시오.
+  
+  <br/>
+  
+  - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
+  - hugging, resistance에 대해서 설명하시오.
+  - Intrinsic Size에 대해서 설명하시오.
+  - 스토리보드를 이용했을때의 장단점을 설명하시오.
+  - Safearea에 대해서 설명하시오.
+  - Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
+  
+  <br/>
+  
+  - MVVM + RxSwift 기초
+    - 이전에 다뤘던 ID & PW를 입력하여 로그인하는 예제를 활용하여 코드 작성
+
 </details>
