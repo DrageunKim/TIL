@@ -48,13 +48,14 @@
   - App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
   - GCD API 동작 방식과 필요성에 대해 설명하시오.
   - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오. 
-  
+
   <br/>
-  
+
   - 알고리즘 - 다이나믹 프로그래밍
   - 서울 공공데이터 API 사용을 위한 사전 준비
     - addingPercentEncoding
     - ATS Policy
+  
 - 2일
 
   - RxSwift 기초
@@ -66,9 +67,9 @@
     - RxSwift 응용
       - ID & PW 형식에 맞는지 확인 후 로그인 해보는 실습
     - Subject
-    
+
 - 4일
-  
+
   - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
   - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
   - Delegate란 무엇인지 설명하고, retain 되는지 안되는지 그 이유를 함께 설명하시오.
@@ -94,19 +95,45 @@
   - 다크모드를 지원하는 방법에 대해 설명하시오.
   - ViewController의 생명주기를 설명하시오.
   - TableView와 CollectionView의 차이점을 설명하시오.
-  
+
   <br/>
-  
+
   - 오토레이아웃을 코드로 작성하는 방법은 무엇인가? (3가지)
   - hugging, resistance에 대해서 설명하시오.
   - Intrinsic Size에 대해서 설명하시오.
   - 스토리보드를 이용했을때의 장단점을 설명하시오.
   - Safearea에 대해서 설명하시오.
   - Left Constraint 와 Leading Constraint 의 차이점을 설명하시오.
-  
+
   <br/>
-  
+
   - MVVM + RxSwift 기초
     - 이전에 다뤘던 ID & PW를 입력하여 로그인하는 예제를 활용하여 코드 작성
+
+- 6일
+
+
+  - 운영체제
+
+    - 프로세스 vs 쓰레드
+    - 프로세스 주소 공간
+    - 시스템 콜 (System Call)
+    - IPC (Inter Process Communication)
+
+
+  <br/>
+
+
+  - 알고리즘
+
+    - 다이나믹 프로그래밍1 - 2차원 배열 활용
+
+
+  <br/>
+
+    - 동시성 프로그래밍 (원티드프리온보딩 1)
+      - 용어 정리
+      - 사전과제 코드 리뷰
+
 
 </details>
