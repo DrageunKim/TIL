@@ -112,37 +112,24 @@
 
 - 6일
 
-
   - 운영체제
 
     - 프로세스 vs 쓰레드
     - 프로세스 주소 공간
     - 시스템 콜 (System Call)
     - IPC (Inter Process Communication)
-
-
-  <br/>
-
-
   - 알고리즘
-
     - 다이나믹 프로그래밍1 - 2차원 배열 활용
-
-
-  <br/>
-
-- 동시성 프로그래밍 (원티드프리온보딩 1)
+  - 동시성 프로그래밍 (원티드프리온보딩 1)
     - 용어 정리
     - 사전과제 코드 리뷰
 
 - 7일
-- 알고리즘
-  - 다이나믹 프로그래밍1 - 기본예제 끗
 
-​		<br/>
-
-- 동시성 프로그래밍 (원티드프리온보딩 2)
-  - DispatchQueue 부가기능
-  - OperationQueue vs Dispatch Queue
+  - 알고리즘
+    - 다이나믹 프로그래밍1 - 기본예제 끗
+  - 동시성 프로그래밍 (원티드프리온보딩 2)
+    - DispatchQueue 부가기능
+    - OperationQueue vs Dispatch Queue
 
 </details>
