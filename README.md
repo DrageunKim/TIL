@@ -55,7 +55,7 @@
   - 서울 공공데이터 API 사용을 위한 사전 준비
     - addingPercentEncoding
     - ATS Policy
-  
+
 - 2일
 
   - RxSwift 기초
@@ -131,5 +131,11 @@
   - 동시성 프로그래밍 (원티드프리온보딩 2)
     - DispatchQueue 부가기능
     - OperationQueue vs Dispatch Queue
+
+- 8일
+
+  - 코드 팩토링
+    - 네트워크 설계
+    - 네트워크 삽질의 흔적
 
 </details>
