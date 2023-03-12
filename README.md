@@ -142,9 +142,55 @@
 
 
   - RxSwift 개념 다듬기
-  - 알고리즘
 
-    - 그리디 개념 세우기
+
+    - 알고리즘
+
+        - 그리디 개념 세우기
+
+
+
+- 12일
+
+
+       - struct와 class와 enum의 차이
+
+
+       - class의 성능을 향상 시킬수 있는 방법
+
+
+       - Copy On Write는 어떤 방식으로 동작
+
+
+       - Convenience init
+
+
+       - Any & AnyObject
+
+
+       - Optional
+
+
+       - Struct
+
+
+       - Subscripts
+
+
+       - String은 왜 subscript로 접근이 안되는지
+
+     <br/>
+
+
+       - 다이나믹 프로그래밍
+
+         - 개념
+
+         - 사용하는 조건
+
+         - 구현 방법
+
+         - 다이나믹 프로그래밍과 분할 정복의 차이점
 
 
 </details>
