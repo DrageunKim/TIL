@@ -183,6 +183,11 @@
       - RxSwift
          - Bind vs Subscribe
 
-
+- 16일
+  - 알고리즘
+    - 브루트 포스 (N과 M)
+  - 코드 팩토링
+    - 진동 동작시키는 3가지 방법
+    - Xcode - Refactor 안될 때 해결법
 
 </details>
