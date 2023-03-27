@@ -212,5 +212,17 @@
       - 브루트 포스 - 순열
       - DFS
 
+- 27일
+
+   - 개념정리
+     - 프로토콜이란 무엇인지 설명하시오.
+     - Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+     - Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+     - mutating 키워드에 대해 설명하시오.
+     - 탈출 클로저에 대하여 설명하시오.
+     - Extension에 대해 설명하시오.
+     - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
+   - 소소한 팁
+     - Git 에러 대처법 - remote: fatal error in commit_refs
 
 </details>
