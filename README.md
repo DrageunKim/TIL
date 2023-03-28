@@ -225,4 +225,22 @@
    - 소소한 팁
      - Git 에러 대처법 - remote: fatal error in commit_refs
 
+- 28일
+
+   - 개념정리
+      - defer란 무엇인지 설명하시오.
+      - defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+      - property wrapper에 대해서 설명하시오.
+      - Generic에 대해 설명하시오.
+      - some 키워드에 대해 설명하시오.
+      - Result타입에 대해 설명하시오.
+      - Codable에 대하여 설명하시오.
+      - Closure에 대하여 설명하시오.
+      - Closure와 함수와의 관계에 대해 설명하시오.
+   - 알고리즘
+      - 브루트 포스 - 재귀
+   - 코드 팩토링
+      - Core Data
+
+
 </details>
