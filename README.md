@@ -256,5 +256,26 @@
       - 브루트 포스 - 비트마스크
       - BFS & DFS 개념
 
+</details>
+
+
+
+<details>
+<summary> 4월 </summary>
+
+- 3일
+
+  - 개념정리
+
+    - 순수함수란 무엇인지 설명하시오.
+    - 함수형 프로그래밍이 무엇인지 설명하시오.
+    - 고차 함수가 무엇인지 설명하시오.
+    - Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.
+
+  - 코드 팩토링
+
+    - 앱 배포 과정 간단 정리
+
 
 </details>
+
