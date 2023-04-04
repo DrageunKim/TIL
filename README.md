@@ -275,6 +275,18 @@
   - 코드 팩토링
 
     - 앱 배포 과정 간단 정리
+- 4일
+
+  - 개념정리
+
+    - Reactive Programming이 무엇인지 설명하시오.
+    - RxSwift를 왜 사용하는지 설명하시오.
+    - RxSwift의 단점을 설명하시오.
+    - RxSwift에서 Hot Observable과 Cold Observable의 차이를 설명하시오.
+    - Subject의 종류와 차이점에 대해 설명하시오.
+    - Subject와 Driver의 차이를 설명하시오.
+    - Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오.
+
 
 
 </details>
