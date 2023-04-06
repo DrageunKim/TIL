@@ -286,8 +286,11 @@
     - Subject의 종류와 차이점에 대해 설명하시오.
     - Subject와 Driver의 차이를 설명하시오.
     - Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오.
-
-
+- 6일
+  - 첫 앱 출시 준비
+    - 개발자 계정
+    - 간단하게 앱 아이콘 만드는 방법
+    - Xcode Simulator 맵 표시 안될 경우
 
 </details>
 
