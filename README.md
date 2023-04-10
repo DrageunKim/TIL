@@ -287,10 +287,20 @@
     - Subject와 Driver의 차이를 설명하시오.
     - Single, Completable, Maybe의 차이점에 대해 설명하고, 언제 적용하면 좋을지 설명하시오.
 - 6일
-  - 첫 앱 출시 준비
+  - 앱 출시 준비
     - 개발자 계정
     - 간단하게 앱 아이콘 만드는 방법
     - Xcode Simulator 맵 표시 안될 경우
+- 7일
+
+  - 앱 출시 준비
+
+    - 앱 개발과정 정리 (README 작성)
+- 10일
+
+  - 앱 등록 준비과정 중 Product - Archive 할 시 앱아이콘 관련 문제 해결
+
+
 
 </details>
 
